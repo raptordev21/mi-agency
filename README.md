@@ -8,3 +8,7 @@ Landing page for mi-agency company
 * Landing Home page
 * Contact me on footer
 * Fully responsive for all screen sizes
+
+---
+Html
+Css
